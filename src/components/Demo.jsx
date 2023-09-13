@@ -139,14 +139,14 @@ const Demo = () => {
                 Article <span className='blue_gradient'>Summary</span>
               </h2>
               <div className='summary_box'>
-              <div className='rounded-full  shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.2)] backdrop-blur flex   cursor-pointer justify-end' onClick={() => handleCopy(article.summary)}>
+              <div className='rounded-full   backdrop-blur flex   cursor-pointer justify-end' onClick={() => handleCopy(article.summary)}>
                 <img
                   src={copied === article.summary ? tick : copy}
                   alt={copied === article.summary ? "tick_icon" : "copy_icon"}
                   className='w-7 h-7 bg-blue-200 bg-opacity-30 object-contain'
                 />
               </div>
-                <p className='font-inter font-medium text-sm text-gray-800'>
+                <p className='font-satoshi font-bold text-sm text-gray-800'>
                   {article.summary}
                 </p>
               </div>
