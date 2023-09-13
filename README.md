@@ -1,4 +1,5 @@
-![Axiom_Cover](https://github.com/Axiom-deve/AX-SUM/assets/87473921/020dfff1-130b-4377-9a7c-01ea5363a2cf)
+
+![AXI-SUM Cover](https://github.com/Axiom-deve/AX-SUM/assets/87473921/20ecdbe4-f1ab-48b7-b4af-d684c9b89920)
 
 # Project Name: AXI-Sum - Axiom Article Summarizer
 
